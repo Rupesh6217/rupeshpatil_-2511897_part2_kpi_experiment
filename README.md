@@ -1,4 +1,4 @@
-# rupeshpatil_-2511897_part2_kpi_experiment
+# rupeshpatil_2511897_part2_kpi_experiment
 # KPI Framework, Business Experiment Analysis & Decision Recommendation
 
 ## Student Information
